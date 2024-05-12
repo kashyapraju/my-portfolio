@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "role": "web development  Virtual Internships",
+      "organisation": "ICTACADEMY",
+      "startDate": "Sept, 2023,",
+      "endDate": "oct, 2023",
+      "location": "Virtual",
+      "experiences": [
+       "I have lerned many concept ",
+       "from this internship"
+      ],
+      "imageSrc": "company/ict.png"
+    },
+    {
+      "id": 2,
+      "role": "web development  Virtual Internships",
+      "organisation": "OASIS INFOBYTE",
+      "startDate": "OCT, 2023",
+      "endDate": "nov, 2023",
+      "location": "Virtual",
+      "experiences": [
+       "In this internship I learned lots of new things ",
+       "and gain experience to develop new web projects"
+      ],
+      "imageSrc": "company/oasis.jpg"
+    }
+   
+  ]
+  
