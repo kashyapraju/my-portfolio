@@ -1,44 +1,44 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbSAmR2j5EbCc4J7mJchnaARMVcfbK2dPlCmblJ92nQ&s"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/javascript.png"
+      "imageSrc": "https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouarwWjutcqgK63HGx5zoGQqLnKYL3nCZa0vYlgZcYw&s"
     },
     {
       "title": "Node",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQ9yXv0yMNz8fbghdbmPGHa1GXXKAQKdUILyVhKUJ2g&s"
     },
    
    
     {
       "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"
     },
 
     {
       "title": "C++",
-      "imageSrc": "skills/c++.png"
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTalQIQQDdkn6PnG5Vo8qQTUN9_BzQul0P5Mtzd_w6LNg&s"
     },
  
     {
       "title": "C",
-      "imageSrc": "skills/c.png"
+      "imageSrc": "https://t3.ftcdn.net/jpg/03/33/09/88/360_F_333098851_oaiN8o7glILcg7nsT1vhSPewI1wSjzyN.jpg"
     },
 
     {
       "title": "Pytgon",
-      "imageSrc": "skills/python.png"
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_U9YL7_NkUF6FUOY0h9uqE-VICA7Wz541Ee75ReMtgg&s"
     }
 
   ]

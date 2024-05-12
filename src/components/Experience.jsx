@@ -16,7 +16,7 @@ const Experience = () => {
                 data-aos-duration="1000"
               >
                 <div className="left">
-                  <img src={`/assets/${data.imageSrc}`} alt="" />
+                  <img src={data.imageSrc}alt="" />
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
@@ -39,3 +39,5 @@ const Experience = () => {
 };
 
 export default Experience;
+
+
